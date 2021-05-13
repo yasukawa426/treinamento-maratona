@@ -1,5 +1,5 @@
 numeros = input().split(' ')
-print(numeros)
+
 num1 = int(numeros[0])
 num2 = int(numeros[1])
 num3 = int(numeros[2])
